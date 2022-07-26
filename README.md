@@ -1,7 +1,7 @@
 STEP-1
 Install Dependencies (Separate terminal)
 1- For Backend -> First cd backend and than run "npm install".
-2- For Frontend - cd frontend "npm i".
+2- For Frontend - cd frontend "npm install".
 
 STEP-2 (Both are in separate terminal)
 1- To Run The Backend Server Run Command.
