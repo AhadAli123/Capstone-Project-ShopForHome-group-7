@@ -6,12 +6,16 @@ Install Dependencies (Separate terminal)
 STEP-2 (Both are in separate terminal)
 1- To Run The Backend Server Run Command.
 
-$ cd backend $ npm install $ npm start
+$ cd backend
+$ npm install 
+$ npm start
 
 2- To Run The Frontend Run Command.
 
 open new terminal
-$ cd frontend $ npm install $ npm start
+$ cd frontend
+$ npm install
+$ npm start
 
 Env Variables
 Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
