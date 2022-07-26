@@ -42,8 +42,8 @@ Essential Variables
 ➢ NODE_ENV=DEVELOPEMENT
 
 For Payement we have used the Paypal sandbox Account which is only for development and testing purpose...
-    LOGIN ID is : ahadwipro@gmail.com
-     PASSWORD is : Ahad@123                  
+    LOGIN ID is : create your account
+     PASSWORD is : create your psswrd              
 ****************************************************** User can perform the following actions. *************************************************
 
 After successfully running the project in browser.-:
@@ -63,8 +63,8 @@ After successfully running the project in browser.-:
 
 ================================================================================================================================================
 
-                 Admin email = ahadwipro@gmail.com
-                 Admin password = Ahad@123
+                 Admin email = admin@example.com
+                 Admin password = 123456
 ------After Sigin admin can also make any user as admin. To do this CLICK on Admin then in dropdown Click on Users you will reach on User-Detail page . Then click on Edit action you will reach onEdit-User page from there u make any user as a Admin.-------------
 ************** Now Admin have CRUD operation on the user ,products include uploading images , stock and as well as sales. *******************
 
